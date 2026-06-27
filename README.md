@@ -1,33 +1,40 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
-  <img alt="Osvaldo Pineda — Senior Fullstack Engineer & System Architect. Secure, accessible web platforms, front to back." src="./header-light.svg" width="100%">
-</picture>
+# Hi, I'm Osvaldo 👋
 
-Seven years architecting scalable applications across the React ecosystem, robust Node and Python backends, and compliance-heavy fintech systems. Based in Mexico City (GMT-6), open to remote, B2B and relocation.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDB0&center=false&vCenter=true&width=500&lines=Senior+Fullstack+Engineer;System+Architect;React+|+TypeScript+Expert;Building+Scalable+Solutions)
 
-### Selected work
+### 👨‍💻 About Me
+**Senior Software Engineer** with 7 years of experience architecting scalable web applications. Expert in the React ecosystem, robust backend systems, and AI-assisted workflows.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./work-dark.svg">
-  <img alt="Selected work — Google Search: resolved WCAG 2.1/2.2 AA defects and shipped UI on the Search engine, frontend over gRPC. Stitch Fix · Life.Church (Unosquare): React/Next.js features and a headless-CMS migration to Contentstack for +25% engagement. Invex · Compartamos · Fondeadora: PCI-DSS micro-frontends for 50k+ banking customers, an offline-first financial-inclusion platform, and a $1M+/month B2B payments system." src="./work-light.svg" width="100%">
-</picture>
+* 🚀 Currently focusing on **Frontend Architecture** and **Web Accessibility (WCAG)**.
+* 🛠️ Expert in **React, TypeScript, Node.js, and Python**.
+* 🌍 Based in **Mexico City**, **Remote Work Specialist** | 🕐 **GMT-6 (Perfect for US teams)** | 💬 **Fluent English**
 
-### Building
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./building-dark.svg">
-  <img alt="Building — El Mundo Conocido: interactive map of Westeros with clickable regions, a lore timeline, and procedural ambient sound (React, Leaflet, Web Audio, Zustand). FinDash: mobile-first personal finance dashboard with real-time projections and Supabase sync (React, TypeScript, Supabase, Tailwind)." src="./building-light.svg" width="100%">
-</picture>
+### 🛠️ Tech Stack
 
-**Live** &nbsp;[El Mundo Conocido](https://asoiaf-map.pages.dev) &nbsp;·&nbsp; [FinDash](https://findash-icc.pages.dev)
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Stack
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./stack-dark.svg">
-  <img alt="Tech stack — Frontend: React, Next.js, TypeScript, Tailwind, WCAG/ARIA. Backend: Node.js, Express, Python, FastAPI, Django, GraphQL, gRPC. Data: PostgreSQL, MongoDB, Prisma. Cloud & QA: AWS, Docker, GitHub Actions, Vercel, Jest, Cypress. AI-assisted: Claude Code, Cursor, agentic workflows." src="./stack-light.svg" width="100%">
-</picture>
+**Enterprise Skills**
+![Testing](https://img.shields.io/badge/Testing-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Accessibility](https://img.shields.io/badge/Accessibility-005A9C?style=for-the-badge&logo=accessibility&logoColor=white) ![Performance](https://img.shields.io/badge/Performance-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-### Connect
+**AI-Assisted Development**
+![Cursor](https://img.shields.io/badge/Cursor-563D7C?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_3.5-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa1c?style=for-the-badge&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge&logo=lightning&logoColor=black)
 
-[Portfolio](https://me.pinedawebstudio.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/osvaldo-pineda) &nbsp;·&nbsp; [Email](mailto:luisosvaldopineda@gmail.com)
+**Tools & Infrastructure**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-luisosvaldopineda%40gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:luisosvaldopineda@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Osvaldo%20Pineda-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/osvaldo-pineda)  
+
+</div>
